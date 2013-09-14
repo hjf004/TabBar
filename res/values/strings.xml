@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">TabBarDemo</string>
+    <string name="this_is_tab1">这里是Tab1</string>
+    <string name="this_is_tab2">这里是Tab2</string>
+    <string name="this_is_tab3">这里是Tab3</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_titles">
+        <item>Tab1</item>
+        <item>Tab2</item>
+        <item>Tab3</item>
+    </string-array>
+    <string-array name="tab_icons">
+        <item>tab1_icon</item>
+        <item>tab2_icon</item>
+        <item>tab3_icon</item>
+    </string-array>
+
+</resources>

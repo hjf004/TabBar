@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabBar">
+        <attr name="icons" format="reference" />
+        <!-- icons是一个存放drawable资源文件名的数组 -->
+        <attr name="titles" format="reference" />
+        <!-- titles是一个存放string的数组 -->
+        <attr name="IconAboveTitle" format="boolean" />
+        <!-- 允许指定分隔线的drawable，目前仅支持图片类型的drawable，使用其他类型会出错 -->
+        <attr name="seperator" format="reference" />
+    </declare-styleable> 
+</resources>
